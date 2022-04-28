@@ -5,6 +5,7 @@ class totalElectricityUsage extends StatefulWidget {
 
   totalElectricityUsage();
 
+
   @override
   State<totalElectricityUsage> createState() => _totalElectricityUsageState();
 }
